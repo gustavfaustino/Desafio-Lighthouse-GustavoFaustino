@@ -57,8 +57,8 @@ Para executar este projeto em sua máquina local, siga os passos abaixo.
 
 **a. Clone o repositório:**
 ```bash
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
-cd nome-do-repositorio
+git clone https://github.dev/gustavfaustino/Desafio-Lighthouse-GustavoFaustino
+cd Desafio-Lighthouse-GustavoFaustino
 ```
 
 **b. Crie um ambiente virtual (Recomendado):**
